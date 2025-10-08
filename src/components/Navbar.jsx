@@ -8,7 +8,7 @@ export default function Navbar(){
           <div className="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center text-xl font-semibold">LD</div>
           <div>
             <h1 className="text-lg font-bold">Leonardo DiCaprio</h1>
-            <p className="text-xs text-gray-500">Fan Page • Not Official</p>
+            <p className="text-xs text-gray-500">Fan Page</p>
           </div>
         </div>
 
